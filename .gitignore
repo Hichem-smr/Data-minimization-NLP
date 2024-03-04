@@ -1,0 +1,5 @@
+# Ignore .venv directory
+.venv/
+
+# Ignore Visual Studio Code files
+.vscode/
